@@ -1,2 +1,3 @@
-# tensorflow-model-deploy
-Example how to deploy your tensorflow model in production using the tensorflow-serving which is the faster and robust
+# TensorFlow Serving for model deployment in production
+
+We have build a model and now we want that model to be accessible from web. There are many ways to do that but we are going to do that using **Tensorflow Serving**.
