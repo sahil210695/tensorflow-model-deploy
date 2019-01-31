@@ -1,0 +1,6 @@
+model_checkpoint_path: "linear-30"
+all_model_checkpoint_paths: "linear-10"
+all_model_checkpoint_paths: "linear-15"
+all_model_checkpoint_paths: "linear-20"
+all_model_checkpoint_paths: "linear-25"
+all_model_checkpoint_paths: "linear-30"
